@@ -23,7 +23,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/agustina-vardaro/" target="blue"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/agustina-vardaro/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/agustina-vardaro/" target="blue"></a>
 </p>
 
 <br></br>
