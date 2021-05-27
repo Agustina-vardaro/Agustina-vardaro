@@ -1,7 +1,6 @@
-<img src="https://user-images.githubusercontent.com/68576630/119763280-9a161b80-be85-11eb-8467-ce8d0a52ae28.jpg"></img>
+<img src="(https://user-images.githubusercontent.com/68576630/119851614-e9d7ff80-bee4-11eb-8b98-ae161a8fe1f1.png"></img>
 
-<h1 align="center">Hi 👋, I'm Agustina Vardaro</h1>
-<h3 align="center">A passionate Full Stack Developer from Argentina</h3>
+<br></br>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=agustina-vardaro&label=Profile%20views&color=0e75b6&style=flat" alt="agustina-vardaro" /> </p>
 
