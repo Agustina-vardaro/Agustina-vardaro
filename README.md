@@ -33,4 +33,4 @@
 
 <br></br>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=agustina-vardaro&show_icons=true&locale=en" alt="agustina-vardaro" /></p>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=agustina-vardaro&show_icons=true&locale=en" alt="agustina-vardaro" /></p>
