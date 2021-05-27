@@ -1,4 +1,4 @@
-![3D GIF - Find   Share on GIPHY](https://user-images.githubusercontent.com/68576630/119751866-536af600-be72-11eb-9700-bcc568e9d03f.gif)
+<img src="https://user-images.githubusercontent.com/68576630/119753281-dd1bc300-be74-11eb-9c3e-7a309b9b41a7.jpg"> </img>
 
 ### Hi there 👋
 
