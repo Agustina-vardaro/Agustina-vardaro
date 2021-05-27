@@ -21,10 +21,6 @@
 
 - ⚡ Fun fact **I think I am a creative and imaginative girl**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/agustina-vardaro/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/agustina-vardaro/" height="30" width="40" /></a>
-</p>
 
 <br></br>
 
